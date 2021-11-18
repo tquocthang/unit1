@@ -1,0 +1,14 @@
+@media (min-width:1024px){
+.table{
+    margin-left: 23%;
+}
+}
+.table{
+    font-size:26px ;
+}
+.text{
+    width: 150%;
+    color: red;
+    margin-left: 36%;
+    font-size: 26px;
+}
